@@ -1,5 +1,5 @@
 HTTPS
+https://github.com/jessic-akushey/Rock-Paper-Scissors.git
 
-
-GIT Cli 
+GITHub Cli 
 gh repo clone jessic-akushey/Rock-Paper-Scissors
